@@ -1,4 +1,4 @@
-# this repository/ webapp is for my personal use
+# bug _ It insers formula as value
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
